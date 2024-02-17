@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header_cust{
+    background-color: #003b95;
+    height: 400px;
+}
+.header_heading{
+    margin-top: 3rem;
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.flag_image{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.logo_main{
+    color: white !important;
+    font-size: 20px !important;
+}
+.costu_link{
+    color: white !important;
+    font-size: 16px;
+   
+}
