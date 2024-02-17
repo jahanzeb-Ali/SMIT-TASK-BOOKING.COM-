@@ -11,9 +11,6 @@
     margin-top: 3rem;
     color: white;
 }
-.nav-link{
-    color: white;
-}
 .flag_image{
     width: 30px;
     height: 30px;
@@ -23,7 +20,7 @@
     color: white !important;
     font-size: 20px !important;
 }
-.costu_link{
+.costu_link,.nav-link{
     color: white !important;
     font-size: 16px;
    
